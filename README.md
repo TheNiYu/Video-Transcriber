@@ -1,11 +1,8 @@
+
 ## 🌐 Languages
 
-<p align="center">
-  <a href="<a name="english"></a>
-# 🎬 Video Transcriber Tool">🇬🇧 EN</a> | 
-  <a href="<a name="japanese"></a>
-# 🎬 動画文字起こしツール">🇯🇵 JP</a>
-</p>
+- [🇬🇧 English](#-video-transcriber-tool)
+- [🇯🇵 日本語](#-動画文字起こしツール)
 
 #ENGLISH
 # 🎬 Video Transcriber Tool
