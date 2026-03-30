@@ -1,8 +1,9 @@
 ## 🌐 Languages
 
-- [🇬🇧 English](# 🎬 Video Transcriber Tool)
-- [🇯🇵 日本語](# 🎬 動画文字起こしツール)
-
+<p align="center">
+  <a href="#english">🇬🇧 English</a> | 
+  <a href="#japanese">🇯🇵 日本語</a>
+</p>
 # 🎬 Video Transcriber Tool
 
 A simple and lightweight tool to transcribe video and audio files into text using OpenAI Whisper (via faster-whisper).
