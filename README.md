@@ -1,3 +1,8 @@
+## 🌐 Language
+
+- [🇬🇧 English](#english)
+- [🇯🇵 日本語](#japanese)
+
 # 🎬 Video Transcriber Tool
 
 A simple and lightweight tool to transcribe video and audio files into text using OpenAI Whisper (via faster-whisper).
@@ -110,6 +115,7 @@ If you need help or want to improve performance:
 ---
 
 Made with ⚡ by NiYu
+
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 -----------------------------------------------------------------------------------------------------
@@ -226,4 +232,5 @@ GPU版への切り替えも可能です。
 ---
 
 NiYuより ⚡
+
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
