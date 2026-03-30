@@ -1,7 +1,7 @@
-## 🌐 Language
+## 🌐 Languages
 
-- [🇬🇧 English](#english)
-- [🇯🇵 日本語](#japanese)
+- [🇬🇧 English](# 🎬 Video Transcriber Tool)
+- [🇯🇵 日本語](# 🎬 動画文字起こしツール)
 
 # 🎬 Video Transcriber Tool
 
