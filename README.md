@@ -1,8 +1,10 @@
 ## 🌐 Languages
 
 <p align="center">
-  <a href="#ENGLISH">🇬🇧 EN</a> | 
-  <a href="#JAPANESE">🇯🇵 JP</a>
+  <a href="<a name="english"></a>
+# 🎬 Video Transcriber Tool">🇬🇧 EN</a> | 
+  <a href="<a name="japanese"></a>
+# 🎬 動画文字起こしツール">🇯🇵 JP</a>
 </p>
 
 #ENGLISH
