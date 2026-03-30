@@ -55,7 +55,7 @@ If you are unsure how to set this up, I’m more than happy to help!
 
 ---
 
-## 💙 Special Note
+## 🌠 Special Note
 
 This build was created specifically for **Hina (藤依ひな)**.
 
@@ -97,7 +97,7 @@ With content like:
 
 ---
 
-## 🤝 Support
+## 💫 Support
 
 If you need help or want to improve performance:
 
@@ -172,7 +172,7 @@ GPU版への切り替えも可能です。
 
 ---
 
-## 💙 特別なご案内
+## 🌠 特別なご案内
 
 このツールは **藤依ひなさん** のために特別に作成されました。
 
@@ -214,7 +214,7 @@ GPU版への切り替えも可能です。
 
 ---
 
-## 🤝 サポート
+## 💫 サポート
 
 設定や高速化について：
 
